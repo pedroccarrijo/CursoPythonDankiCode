@@ -1,0 +1,8 @@
+Teste Escrita Write 'w'
+Teste de adição de escrita 'a'
+  Mala
+    Camisa
+    Calça 
+    Meia
+    Short
+    Chinelo
