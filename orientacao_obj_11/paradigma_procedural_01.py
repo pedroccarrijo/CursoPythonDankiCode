@@ -47,3 +47,48 @@ class Paciente:
         self.idade = idade
         self.cpf = cpf
         self.email = email
+        # >>> paciente = Paciente('Maria', 19, '000.000.000-00', 'maria@gmail.com')
+        # Acessei o construtor
+        # >>> paciente.nome
+        # 'Maria'
+        # >>> paciente.cpf
+        # '000.000.000-00'
+        # >>> paciente.idade
+        # 19
+        # >>> paciente.email
+        # 'maria@gmail.com'
+
+""" 
+Simulação de Eventos Discretos -> Paradigma Orientado à Objetos 
+Relação -> Destacando as funções e variáveis 
+
+---------------------------------------------------------------
+
+Conceitos Estruturais
+
+-Classe 
+
+Classe é uma estrutura que abstrai um conjunto de objetos com características 
+similares. Definindo o comportamento dos seus objetos  através 
+das estruturas 
+
+1- Atributos 
+2- Métodos 
+
+A classe define um tipo de dado abstrato 
+
+
+-----------------------------------------------------------------
+
+Conceitos Funadamentais
+
+-Abstração 
+
+Processo pelo qual se isolam aatributos de um objeto, 
+considerando os que certo grupos de objetos tenham em comum.
+
+-Reúso
+
+Não existe pior prática em programação do que repetir código
+
+"""
